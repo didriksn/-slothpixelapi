@@ -3,7 +3,7 @@
 Checks for the lowest sell price and the amount sold in how many orders for Enchanted Acacia Logs in Hypixel Skyblock!
 
 ## API info
-Check out https://docs.slothpixel.me/ for documentation about the API!
+Check https://docs.slothpixel.me/ for documentation about the API!
 </br></br>
 
 JSON output for https://api.slothpixel.me/api/skyblock/bazaar/ENCHANTED_ACACIA_LOG
