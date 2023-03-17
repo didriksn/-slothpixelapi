@@ -6,4 +6,4 @@ Checks for the lowest sell price and the amount sold in how many orders for Ench
 Check out https://docs.slothpixel.me/ for more information about the API
 
 ## License
-No license :)
+No license :) unlike some people :(    https://github.com/LilleAila
