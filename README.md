@@ -37,5 +37,7 @@ JSON output for https://api.slothpixel.me/api/skyblock/bazaar/ENCHANTED_ACACIA_L
 {"productId":"ENCHANTED_ACACIA_LOG","sellPrice":1703.9200766675187,"sellVolume":828395,"sellMovingWeek":3580911,"sellOrders":105,"buyPrice":1913.9965338789264,"buyVolume":800559,"buyMovingWeek":2439703,"buyOrders":834},"category":"&4Woods & Fishes","related":["LOG_2"],"name":"Enchanted Acacia Wood"}
 ```
 
+---
+
 ## License
 No license :) unlike some people :(    https://github.com/LilleAila
