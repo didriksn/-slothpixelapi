@@ -6,7 +6,8 @@ Checks for the lowest sell price and the amount sold in how many orders for Ench
 Check https://docs.slothpixel.me/ for documentation about the API!
 </br></br>
 
-JSON output for https://api.slothpixel.me/api/skyblock/bazaar/ENCHANTED_ACACIA_LOG
+JSON output for https://api.slothpixel.me/api/skyblock/bazaar/ENCHANTED_ACACIA_LOG </br>
+**(THIS WAS THE OUTPUT WHEN I MADE THIS, PRICES CHANGE)**
 ```JSON
 {"product_id":"ENCHANTED_ACACIA_LOG",
 
